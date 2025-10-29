@@ -64,7 +64,7 @@ Through this project, I strengthened my skills in:
 ---
 
 ## 🧾 Dashboard Preview
-![Healthcare Dashboard Screenshot](https://github.com/yourusername/Healthcare-Performance-Dashboard-PowerBI/blob/main/Dashboard.png)
+![Healthcare Dashboard Screenshot](https://github.com/samiksha29-patil/Healthcare-Performance-Dashboard-PowerBI/blob/main/HEALTHCARE%20PERFORMANCE%20DASHBOARD.png?raw=true)
 
 ---
 
